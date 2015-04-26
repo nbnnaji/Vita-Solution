@@ -1,0 +1,10 @@
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\bin\Debug\Vita Project.exe.config
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\bin\Debug\Vita Project.exe
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\bin\Debug\Vita Project.pdb
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\bin\Debug\Vita Project.xml
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\obj\Debug\Vita_Project.Form1.resources
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\obj\Debug\Vita_Project.Resources.resources
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\obj\Debug\Vita Project.vbproj.GenerateResource.Cache
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\obj\Debug\Vita Project.exe
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\obj\Debug\Vita Project.xml
+c:\users\nikki\documents\visual studio 2013\Projects\Vita Solution\Vita Project\obj\Debug\Vita Project.pdb
